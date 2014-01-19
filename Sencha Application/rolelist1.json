@@ -1,0 +1,6 @@
+[ { "Id": "81c839cc-f6b2-469d-9b08-7056f6e58b0c", "PoitypeName": "Hundlatriner" },
+ { "Id": "8f10f487-638f-4895-a7ab-34030d6f1f2a", "PoitypeName": "Papperskorgar" }, 
+ { "Id": "024e06e2-a31b-4328-8674-4318b3883401", "PoitypeName": "Gatubelysningsstolpar" },
+ { "Id": "024e06e2-a31b-4328-8674-4318b3883402", "PoitypeName": "Parkeringsautomater" },
+ { "Id": "024e06e2-a31b-4328-8674-4318b3883405", "PoitypeName": "Others" }
+ ]

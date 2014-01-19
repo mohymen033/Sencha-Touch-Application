@@ -1,0 +1,7 @@
+[{
+					ReportPoiTypeId: '1',
+					ReportPoiTypeName: 'Error'
+				}, {
+					ReportPoiTypeId: '2',
+					ReportPoiTypeName: 'Feedback'
+				}]
